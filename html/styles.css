@@ -1,0 +1,22 @@
+h1 {
+    color: yellow;
+}
+.Blue-text {
+    color: blue;
+    font-size: 10px;
+}
+.fat-and-blue {
+    color: blue;
+    font-weight: bold;
+}
+.mars-section {
+    font-size: 20px;
+    background: 
+
+}
+.mars-section p, 
+.mars-section h3 {
+    font-size: 1em;
+    color: violet;
+    
+}
